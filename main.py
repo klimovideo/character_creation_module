@@ -1,5 +1,6 @@
 from random import randint
-ч
+
+
 def attack(char_name, char_class):
     if char_class == 'warrior':
         return (f'{char_name} нанёс противнику урон, равный '
